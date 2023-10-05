@@ -7,3 +7,6 @@
 
 ## REVERSE / FORENSICS
 - https://dogbolt.org/ - Decompile Explorer
+
+## Стега
+- https://www.metadata2go.com/view-metadata - Проверка метаданных файла онлайн
